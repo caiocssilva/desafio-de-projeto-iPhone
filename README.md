@@ -3,7 +3,7 @@
 Este projeto contém a implementação das interfaces e classes que representam as funcionalidades do iPhone como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
 ## Estrutura do Projeto
-/desafio-de-projeto-iPhone
+/desafio-de-projeto-iPhone <br>
 │
 ├── resources
 │ ├── modelagem.pdf
