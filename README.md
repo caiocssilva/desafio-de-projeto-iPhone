@@ -4,19 +4,19 @@ Este projeto contém a implementação das interfaces e classes que representam 
 
 ## Estrutura do Projeto
 /desafio-de-projeto-iPhone <br>
-│
-├── resources
-│ ├── modelagem.pdf
-│ ├── modelagem.png
-│ └── diagrama.md
-|
-├── src
-│ ├── AparelhoTelefonico.java
-│ ├── iPhone.java
-│ ├── NavegadorInternet.java
-│ └── ReprodutorMusical.java
-│
-└── README.md
+│<br>
+├── resources<br>
+│ ├── modelagem.pdf<br>
+│ ├── modelagem.png<br>
+│ └── diagrama.md<br>
+|<br>
+├── src<br>
+│ ├── AparelhoTelefonico.java<br>
+│ ├── iPhone.java<br>
+│ ├── NavegadorInternet.java<br>
+│ └── ReprodutorMusical.java<br>
+│<br>
+└── README.md<br>
 
 
 ## Recursos
