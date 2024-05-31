@@ -9,14 +9,14 @@ Este projeto contém a implementação das interfaces e classes que representam 
 │ ├── modelagem.pdf<br>
 │ ├── modelagem.png<br>
 │ └── diagrama.md<br>
-|<br>
+| <br>
 ├── src<br>
 │ ├── AparelhoTelefonico.java<br>
 │ ├── iPhone.java<br>
 │ ├── NavegadorInternet.java<br>
 │ └── ReprodutorMusical.java<br>
-│<br>
-└── README.md<br>
+│ <br>
+└── README.md
 
 
 ## Recursos
